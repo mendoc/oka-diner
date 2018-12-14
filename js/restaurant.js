@@ -24,7 +24,7 @@ var blankProgress = {
 }
 
 // Get progress from localStorage, or start from scratch if we don't have any
-var progress = JSON.parse(localStorage.getItem("progress")) || blankProgress;
+var progress = JSON.parse(localStorage.getItem("progress")) || levels;
 
 
 $(document).ready(function(){
