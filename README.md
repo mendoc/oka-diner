@@ -1,4 +1,4 @@
-# Welcome to CSS Diner
+# Welcome to OKA Diner
 
 It's a fun game to learn and practice CSS selectors.
 
